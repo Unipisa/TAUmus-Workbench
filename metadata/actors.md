@@ -1,37 +1,41 @@
-## DIUNIPI SWH DEPOSITORY/ACTORS.md Template
-
-Here we propose a template for ACTORS<span>.md for Depository of DIUNIPI SWH Acquisition Process.
-
-Each participant of the process to build the Depository should have a corresponding record on the ACTORS<span>.md with the structure below.
-
-Please note that:
-
-* Name and Surname of actors should be linked to their paragraph in [ACTORS.md](./ACTORS.md) file;
-* Items should be linked to the file [inside the repository](./MATERIAL/);
-* We recommend to use only one of the following roles for each record: Author, Collector, Curator;
-* Current and Historical Affiliation refer to the circumstances when the software were produced and those when the Depository is build, respectively;
-* Notes are optional.
-
-Example of Actor link:
-~~~
-[Name Surname](./ACTORS.md#name-surname)
-~~~
-Example of Item link:
-~~~
-[Item Name](./MATERIAL/example_file.zip)
-~~~
+# TAUmus Depository Actors
 
 
-# SW_NAME Depository Actors
-
-
-* # Name Surname
+* # Pietro Grossi
   * *Affiliation* 
-     * *Current:* [Example Departement](www.example.com)
-       * *Email:* <surname@example.com> 
-       * *Github handle:* [@github](https://github.com/github)
-       * *Website:* <http://www.example.com/~example/>
-     * *Historical:* [Ancient Example Departement](www.ancient.example.com)
-       * *Email:* <surname@ancient.example.com> 
+     * *Historical:* Docente di violoncello al [Conservatorio Luigi Cherubini di Firenze](https://www.consfi.it/)
+  * *Roles:* Author
+
+* # Leonello Tarabella
+  * *Affiliation* 
+     * *Current:* Amico dell'ISTI [CNR-ISTI](https://www.isti.cnr.it/it/)
+       * *Email:* <leonello.tarabella@isti.cnr.it> 
+     * *Historical:* [CNR-CNUCE](http://stdl.cnr.it/it/il-fondo-del-cnuce)
+     * *Historical:* (2002-2014)[CNR-ISTI](https://www.isti.cnr.it/it/)
   * *Roles:* Author
   
+* # Graziano Bertini
+  * *Affiliation* 
+     * *Current:* Amico dell'ISTI [CNR-ISTI](https://www.isti.cnr.it/it/)
+       * *Email:* <graziano.bertini@isti.cnr.it> 
+     * *Historical:* CNR-IEI
+     * *Historical:* (2002-2010)[CNR-ISTI](https://www.isti.cnr.it/it/)
+  * *Roles:* Author
+
+* # Massimo Magrini
+  * *Affiliation* 
+     * *Current:* [CNR-ISTI](https://www.isti.cnr.it/it/)
+       * *Email:* <massimo.magrini@isti.cnr.it> 
+  * *Roles:* Curator
+
+* # Carlo Montangero
+  * *Affiliation* 
+     * *Current:* Retired [Università di Pisa-Dipartimento di Informatica](https://www.di.unipi.it/it/)
+       * *Email:* <carlo@montangero.eu> 
+  * *Roles:* Collector
+
+* # Laura Bussi
+  * *Affiliation* 
+     * *Current:* [Università di Pisa-Dipartimento di Informatica](https://www.di.unipi.it/it/)
+       * *Email:* <laura.bussi@phd.unipi.it> 
+  * *Roles:* Curator
