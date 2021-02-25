@@ -32,10 +32,10 @@
   * *Affiliation* 
      * *Current:* Retired [Università di Pisa-Dipartimento di Informatica](https://www.di.unipi.it/it/)
        * *Email:* <carlo@montangero.eu> 
-  * *Roles:* Collector
+  * *Roles:* Collector, Curator
 
 * # Laura Bussi
   * *Affiliation* 
      * *Current:* [Università di Pisa-Dipartimento di Informatica](https://www.di.unipi.it/it/)
        * *Email:* <laura.bussi@phd.unipi.it> 
-  * *Roles:* Curator
+  * *Roles:* Collector, Curator
