@@ -169,60 +169,60 @@
   * *Description: Libretto sugli studi musicali effettuati con il sistema DCMP.* 
   * *Notes:*
 
-* **[Libretto sul terminale TAU2](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/TAU2-an-audio-terminal-ITA.pdf)**
+* **[TAU2: an audio terminal for Computer Music Experiments](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/TAU2-an-audio-terminal-ITA.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* [G. Bertini](./ACTORS.md#graziano-bertini), M. Chimenti, F. Denoth
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
-  * *Description: Libretto descrittivo del terminale TAU2.* 
-  * *Notes:*
+  * *Description: IEI Tech. Rep. B76-17, introducing TAU2. July 1976.* 
+  * *Notes: In Italian.*
 
-* **[Libretto sul terminale TAU2 (Eng)](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/TAU2-an-audio-terminal.pdf)**
+* **[TAU2: an audio terminal for Computer Music Experiments (Eng)](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/TAU2-an-audio-terminal.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* [G. Bertini](./ACTORS.md#graziano-bertini), M. Chimenti, F. Denoth
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
-  * *Description: Libretto descrittivo del terminale TAU2 (versione inglese).* 
-  * *Notes:*
+  * *Description: Reprint from Proceed. Int. Symp.on Technology for Selective Dissemination of Information, San Marino, IEEE, 1967.* 
+  * *Notes: English version of IEI Tech. Rep. B76-17.*
 
-* **[Tabella funzioni base di TAUmus](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Tabella1_funzioni_base_com.pdf)**
+* **[TAUmus basic functions](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Tabella1_funzioni_base_com.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* unknown
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
-  * *Description: Tabella che illustra le caratteristiche dei comandi di base di TAUmus.* 
+  * *Description: This table relates each TAUmus command to the basic routines it uses.* 
   * *Notes:*
 
-* **[Foto TAU2](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/foto_tau2.pdf)**
+* **[Picture: TAU2](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/foto_tau2.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* unknown
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
-  * *Description: Foto del terminale audio TAU2.* 
+  * *Description: This picture of the TAU2 audio synthetiser shows the control panel (top slot of the red rack.* 
   * *Notes:*
 
-* **[Foto TAU2 (2)](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/foto_tau2_2.pdf)**
+* **[Picture: TAU2 bis](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/foto_tau2_2.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* unknown
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
-  * *Description: Foto del terminale audio TAU2.* 
+  * *Description: G. Bertini at the console of the TAU2.* 
   * *Notes:*
 
-* **[Foto TAU2 con didascalia](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/foto_tau2.pdf)**
+* **[Picture: TAU2 with text](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/foto_tau2.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* unknown
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
-  * *Description: Foto del terminale audio TAU2, didascalia, tratta da una rivista.* 
-  * *Notes:*
+  * *Description: The text compares the size of the 1971 synthetiser with that of the audio integrated circuits mounted oon the contmporary personal computers (date unknown).* 
+  * *Notes: In Italian.*
 
-* **[Opuscolo CNUCE](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/libretto_cnuce.pdf)**
+* **[Pamphlet: CNUCE](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/libretto_cnuce.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* L. Gori, D. R. Matteucci
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
-  * *Description: Opuscolo informativo che illustra la struttura e le attività del CNUCE.* 
+  * *Description: This pamphlet describes the structure and the activities of CNUCE in 1977. Page 24 is devoted to Computer Music.* 
   * *Notes:*
 
 
