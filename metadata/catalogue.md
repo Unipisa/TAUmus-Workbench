@@ -63,7 +63,7 @@
   * *Authors:* [P. Grossi](./ACTORS.md#pietro-grossi), G. Sommi.
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
   * *Description: User manual of the Digital Computer Music Program (DCMP). The DCPM is a precursor of the TAU2-TAUmus system: It generated sounds acting on one of the CPU registers of the IBM 360. CNUCE Tech rep. June 1974.* 
-  * *Notes: Yhis is the version for IBM 360/67. In Italian.*
+  * *Notes: This is the version for IBM 360/67. In Italian.*
 
 * **[List of TAUmus musical pieces](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Elenco_brani.pdf)**
   * *Origin: Leonello Tarabella* 
@@ -73,29 +73,29 @@
   * *Description: This is the list of the programs available to play musical pieces on the TAU2-TUAmus system, as of 3/9/1979.* 
   * *Notes: Conputer printout, generated from the Music1 virtual machine on the CNUCE IBM 370 computer system.*
 
-* **[Foto del gruppo di lavoro](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Foto_Grossi_Tarabella.pdf)**
+* **[A picture of the working group](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Foto_Grossi_Tarabella.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* unknown
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
-  * *Description: Picture of the people of the TAUmus project, in fron of the TAU2 audio terminal and its working station.*
-  * *Notes:*
+  * *Description: Picture of the people of the TAUmus project, in front of the TAU2 audio terminal and its working station.*
+  * *Notes: From left to right: L. Tarabella, M. Chimenti, P. Grossi and G. Bertini.*
 
-* **[Lucidi sul sistema TAUmus](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Lucidi_Taumus.pdf)**
+* **[Slide on TAUmus](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Lucidi_Taumus.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* [L. Tarabella](./ACTORS.md#leonello-tarabella)
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
-  * *Description: Lucidi che illustrano il funzionamento del sistema TAUmus mediante diagrammi.* 
-  * *Notes:*
+  * *Description: Slides prepared to present the TAUmus system. They exibit flow-charts, architectural diagrams and example programs.* 
+  * *Notes: Handwritten color foils for overhead projection.*
 
-* **[Libretto Maggio Musicale](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Maggio_Musicale.pdf)**
+* **[Computer Music at the 41st Maggio Musicale Fiorentino](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Maggio_Musicale.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* [P. Grossi](./ACTORS.md#pietro-grossi), [L. Tarabella](./ACTORS.md#leonello-tarabella), [G. Bertini](./ACTORS.md#graziano-bertini), M. Chimenti, T. Bolognesi
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
-  * *Description: Libretto sulla computer music uscito in occasione del 41° Maggio Musicale.* 
-  * *Notes:*
+  * *Description: Excerpt from the catalogue of the 41st Maggio Musicale Fiorentino. June 1978. A thorough description of the music composiiton system.* 
+  * *Notes: In Italian and English.*
 
 * **[Articolo "Musica in tempo reale"](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Musica_in_tempo_reale.pdf)**
   * *Origin: Leonello Tarabella* 
@@ -105,13 +105,13 @@
   * *Description: Articolo di Grossi sulle prospettive della computer music, uscito sulla rivista Futuribili (Maggio 1971).* 
   * *Notes:*
 
-* **[Note congresso di San Diego](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Note_congresso.pdf)**
+* **[International Computer Music Conference 1977](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Note_congresso.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* [L. Tarabella](./ACTORS.md#leonello-tarabella)
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
-  * *Description: Appunti di preparazione per il congresso di San Diego sulla computer music (1977).* 
-  * *Notes:*
+  * *Description: Notes prepared for the International Computer Music Conference, October 1977, La Jolla (San Diego, California).* 
+  * *Notes: Handwritten notes, in Italian.*
 
 * **[Note sulla computer music](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Preambolo.pdf)**
   * *Origin: Leonello Tarabella* 
