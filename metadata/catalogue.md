@@ -81,7 +81,7 @@
   * *Description: Picture of the people of the TAUmus project, in front of the TAU2 audio terminal and its working station.*
   * *Notes: From left to right: L. Tarabella, M. Chimenti, P. Grossi and G. Bertini.*
 
-* **[Slide on TAUmus](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Lucidi_Taumus.pdf)**
+* **[Slides on TAUmus](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Lucidi_Taumus.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* [L. Tarabella](./ACTORS.md#leonello-tarabella)
