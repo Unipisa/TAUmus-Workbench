@@ -97,13 +97,13 @@
   * *Description: Excerpt from the catalogue of the 41st Maggio Musicale Fiorentino. June 1978. A thorough description of the music composiiton system.* 
   * *Notes: In Italian and English.*
 
-* **[Articolo "Musica in tempo reale"](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Musica_in_tempo_reale.pdf)**
+* **[Real Time Music](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Musica_in_tempo_reale.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* [P. Grossi](./ACTORS.md#pietro-grossi)
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
-  * *Description: Articolo di Grossi sulle prospettive della computer music, uscito sulla rivista Futuribili (Maggio 1971).* 
-  * *Notes:*
+  * *Description: Grossi discusses the perspectives of computer music. Futuribili, 34, May 1971.* 
+  * *Notes: In Italian.*
 
 * **[International Computer Music Conference 1977](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Note_congresso.pdf)**
   * *Origin: Leonello Tarabella* 
@@ -113,53 +113,53 @@
   * *Description: Notes prepared for the International Computer Music Conference, October 1977, La Jolla (San Diego, California).* 
   * *Notes: Handwritten notes, in Italian.*
 
-* **[Note sulla computer music](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Preambolo.pdf)**
+* **[A new instrument](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Preambolo.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* unknown
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
-  * *Description: Nota sul ruolo della tecnologia nell'evoluzione della musica.* 
-  * *Notes:*
+  * *Description: A short introduction of a larger work on the impact of technology on music.* 
+  * *Notes: Typewritten note, in Italian.*
 
 * **[Schema ATMAIN](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Schema_ATMAIN.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* unknown
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
-  * *Description: Descrizione schematica della struttura del sistema TAUmus.* 
-  * *Notes:*
+  * *Description: Call graph of the routines of the TAUmus system.* 
+  * *Notes: Hand drawing on graph paper.*
 
-* **[Schema IBM370 e TAU2](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Schema_IBM370+TAU2.pdf)**
+* **[Schema IBM370-TAU2](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Schema_IBM370+TAU2.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* unknown
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
-  * *Description: Descrizione schematica delle comunicazioni tra l'IBM 370 e il terminale TAU2.* 
-  * *Notes:*
+  * *Description: Schematic architecture of the communications between the IBM 370 computer and the audio terminal TAU2.* 
+  * *Notes: In Italian.*
 
-* **[Descrizione dei comandi di TAUmus](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Schema_comandi_taumus.pdf)**
+* **[The TAU2 commands cheat-sheet](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Schema_comandi_taumus.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* unknown
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
-  * *Description: Descrizione schematica della struttura dei comandi di TAUmus.* 
-  * *Notes:*
+  * *Description: A one page description of the structure of the TAU2 commands to generate sounds with pitch.* 
+  * *Notes: In Italian.*
 
-* **[Tavolo di comando](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Schema_tavolo_comando.pdf)**
+* **[The TAU2 control panel](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Schema_tavolo_comando.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* unknown
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
-  * *Description: Prospetto del tavolo di comando di TAUmus.* 
-  * *Notes:*
+  * *Description: Design of the control panel of the TAU2 audio synthesiser of sounds with pitch. July 1976.* 
+  * *Notes: Technical drawing, IEI, CNR, Pisa.*
 
-* **[Seminario di Informatica Musicale](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Seminario_inf_musicale.pdf)**
+* **[A note on a seminar on Computer Music](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Seminario_inf_musicale.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* [P. Grossi](./ACTORS.md#pietro-grossi)
   * *Collectors:* [C. Montangero](./ACTORS.md#carlo-montangero), [L. Bussi](./ACTORS.md#laura-bussi)
-  * *Description: Articolo sul seminario di informatica musicale svoltosi al CNUCE, uscito sulla rivista Città e Regione (Marzo 1976).* 
-  * *Notes:*
+  * *Description: This short note reports on a seminar held at CNUCE in February 1976. Città e Regione, 3, March 1976.* 
+  * *Notes: In Italian.*
 
 * **[Studi musicali DCMP](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Studi_musicali_DCMP.pdf)**
   * *Origin: Leonello Tarabella* 
