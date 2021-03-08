@@ -10,7 +10,7 @@ Folder [browsable source](./browsable_source) is for a browsable version of the 
 
 Folder [source](./source) is for the curated revision of the source code, as a base for the reconstruction of the development history in a git repository: each major version of the code is in a dedicated subfolder.
 
-Folder [additional materials](./additional_materials) is for materials originated in the recovery process and that, while documenting it, shed new  lights on the original software project.
+Folder [additional materials](./additional_materials) is for materials originated in the recovery process and that, while documenting it, shed new lights on the original software project.
 
 Folder [metadata](/.metadata) holds various files with meta information (catalogue, actors, journal), that provide a structured documentation of the recovery process. 
 
