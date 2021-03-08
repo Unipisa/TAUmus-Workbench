@@ -73,7 +73,7 @@
   * *Description: This is the list of the programs available to play musical pieces on the TAU2-TUAmus system, as of 3/9/1979.* 
   * *Notes: Conputer printout, generated from the Music1 virtual machine on the CNUCE IBM 370 computer system.*
 
-* **[A picture of the working group](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Foto_Grossi_Tarabella.pdf)**
+* **[A picture of the working group](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Foto_Grossi_Tarabella.jpg)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* unknown
@@ -161,14 +161,6 @@
   * *Description: This short note reports on a seminar held at CNUCE in February 1976. Città e Regione, 3, March 1976.* 
   * *Notes: In Italian.*
 
-* **[Studi musicali DCMP](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Studi_musicali_DCMP.pdf)**
-  * *Origin: Leonello Tarabella* 
-  * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
-  * *Authors:* [P. Grossi](./actors.md#pietro-grossi), G. Sommi
-  * *Collectors:* [C. Montangero](./actors.md#carlo-montangero), [L. Bussi](./actors.md#laura-bussi)
-  * *Description: Libretto sugli studi musicali effettuati con il sistema DCMP.* 
-  * *Notes:*
-
 * **[TAU2: an audio terminal for Computer Music Experiments](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/TAU2-an-audio-terminal-ITA.pdf)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
@@ -193,7 +185,7 @@
   * *Description: This table relates each TAUmus command to the basic routines it uses.* 
   * *Notes:*
 
-* **[Picture: TAU2](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/foto_tau2.pdf)**
+* **[Picture: TAU2](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/foto_tau2.jpg)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* unknown
@@ -201,7 +193,7 @@
   * *Description: This picture of the TAU2 audio synthetiser shows the control panel (top slot of the red rack.* 
   * *Notes:*
 
-* **[Picture: TAU2 bis](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/foto_tau2_2.pdf)**
+* **[Picture: TAU2 bis](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/foto_tau2_2.jpg)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* unknown
@@ -209,7 +201,7 @@
   * *Description: G. Bertini at the console of the TAU2.* 
   * *Notes:*
 
-* **[Picture: TAU2 with text](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/foto_tau2.pdf)**
+* **[Picture: TAU2 with text](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/foto_tau2.jpg)**
   * *Origin: Leonello Tarabella* 
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* unknown
@@ -257,7 +249,6 @@
 ├── Schema_IBM370+TAU2.pdf<br>
 ├── Schema_tavolo_comando.pdf<br>
 ├── Seminario_inf_musicale_Grossi.pdf<br>
-├── Studi_musicali_DCMP.pdf<br>
 ├── Tabella1_funzioni_base_com.pdf<br>
 ├── TAU2-an-audio-terminal-ITA.pdf<br>
 └── TAU2-an-audio-terminal.pdf<br>
