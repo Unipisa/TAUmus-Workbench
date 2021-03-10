@@ -13,3 +13,5 @@ The resulting
 
 This repository was created with the support of the [Software Heritage Acquisition Process Pisa Enactor](https://github.com/Unipisa/SWHAPPE).  
 Please look at the [SWHAPPE repository](https://github.com/Unipisa/SWHAPPE/README.md) and to the [guidelines](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP%40Pisa.pdf) for more details.
+
+-------------------
