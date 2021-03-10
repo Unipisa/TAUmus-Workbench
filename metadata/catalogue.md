@@ -1,4 +1,4 @@
-# TAUmus Depository Catalougue
+# TAUmus Catalogue
 
 
 * **[Notes on TAUmus](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Appunti_taumus.pdf)**
@@ -218,40 +218,40 @@
   * *Notes:*
 
 
-# TAUmus Depository Catalougue Tree
+# TAUmus Catalogue Tree
 ~~~
-.
-├── Appunti_taumus.pdf<br>
-├── Articolo_automazione_strumentazione.pdf<br>
-├── Articolo_Grossi.pdf<br>
-├── Articolo_lab_fonologia.pdf<br>
-├── Bertini_Chimenti_Denoth.pdf<br>
-├── Biografia_Grossi.pdf<br>
-├── DCMP_360-67.pdf<br>
-├── DCMP-manual.pdf<br>
-├── Elenco_brani.pdf<br>
-├── Foto_Grossi_Tarabella.jpg<br>
-├── foto_tau2_2.jpg<br>
-├── foto_tau2_dida.jpg<br>
-├── foto_tau2.jpg<br>
-├── Generazione_disposizioni.pdf<br>
-├── Home_art_Grossi.pdf<br>
-├── libretto_cnuce.pdf<br>
-├── Lucidi_Taumus.pdf<br>
-├── Maggio_musicale.pdf<br>
-├── Modalità_operative_taumus.pdf<br>
-├── Musica_in_tempo_reale_Grossi.pdf<br>
-├── Note_congresso.pdf<br>
-├── Preambolo.pdf<br>
-├── README.md<br>
-├── Schema_ATMAIN.pdf<br>
-├── Schema_comandi_taumus.pdf<br>
-├── Schema_IBM370+TAU2.pdf<br>
-├── Schema_tavolo_comando.pdf<br>
-├── Seminario_inf_musicale_Grossi.pdf<br>
-├── Tabella1_funzioni_base_com.pdf<br>
-├── TAU2-an-audio-terminal-ITA.pdf<br>
-└── TAU2-an-audio-terminal.pdf<br>
-
-0 directories, 33 files
+raw_materials
+├── Appunti_taumus.pdf
+├── Articolo_automazione_strumentazione.pdf
+├── Articolo_Grossi.pdf
+├── Articolo_lab_fonologia.pdf
+├── Bertini_Chimenti_Denoth.pdf
+├── Biografia_Grossi.pdf
+├── DCMP_360-67.pdf
+├── DCMP-manual.pdf
+├── Elenco_brani.pdf
+├── Foto_Grossi_Tarabella.jpg
+├── foto_tau2_2.jpg
+├── foto_tau2_dida.jpg
+├── foto_tau2.jpg
+├── Generazione_disposizioni.pdf
+├── Home_art_Grossi.pdf
+├── libretto_cnuce.pdf
+├── Lucidi_Taumus.pdf
+├── Maggio_musicale.pdf
+├── Modalità_operative_taumus.pdf
+├── Musica_in_tempo_reale_Grossi.pdf
+├── Note_congresso.pdf
+├── Preambolo.pdf
+├── README.md
+├── Schema_ATMAIN.pdf
+├── Schema_comandi_taumus.pdf
+├── Schema_IBM370+TAU2.pdf
+├── Schema_tavolo_comando.pdf
+├── Seminario_inf_musicale_Grossi.pdf
+├── Tabella1_funzioni_base_com.pdf
+├── TAU2-an-audio-terminal-ITA.pdf
+└── TAU2-an-audio-terminal.pdf
+additional_materials
+└── Hapoc2019.pptx
 ~~~
