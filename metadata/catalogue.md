@@ -226,12 +226,20 @@
   * *Notes:* Additional materials. 
 
 * **[L’Informatica musicale a Pisa](https://github.com/Unipisa/TAUmus-Depository/tree/master/additional_materials/L’Informatica musicale a Pisa.pdf)**
-  * *Origin: [L. Bussi](./actors.md#laura-bussi)* 
+  * *Origin: [C. Montangero](./actors.md#carlo-montangero)* 
   * *Warehouse:*
-  * *Authors:* [L. Tarabella](./actors.md#leonello-tarabella), [C. Montangero](./actors.md#carlo-montangero), [L. Bussi](./actors.md#laura-bussi)
-  * *Collectors:* [L. Bussi](./actors.md#laura-bussi)
-  * *Description: A Case Study of Legacy Source Code: The Computer Music System TAU2-TAUMUS. Presentation of this recovery process at [HaPoC 2019](https://hapoc2019.sciencesconf.org/resource/page/id/3).* 
-  * *Notes:* Additional materials.
+  * *Authors:* [L. Tarabella](./actors.md#leonello-tarabella), [G. Bertini](./actors.md#graziano-bertini), Carlo Raffaelli, Luca Doni
+  * *Collectors:* [C. Montangero](./actors.md#carlo-montangero)
+  * *Description: This booklet collects several testimonies on the research in computer music in Pisa, related to the TAU2-TAUmus system, but not only.* 
+  * *Notes:* Additional materials. In Italian. It was printed to accompany the homonymous workshop on Grossi's experience, held in November 2019.
+
+* **[Poster: L’Informatica musicale a Pisa](https://github.com/Unipisa/TAUmus-Depository/tree/master/additional_materials/Locandina-informatica-musicale-pisa.jpg)**
+  * *Origin: [C. Montangero](./actors.md#carlo-montangero)* 
+  * *Warehouse:*
+  * *Authors:* [L. Tarabella](./actors.md#leonello-tarabella), [G. Bertini](./actors.md#graziano-bertini), Carlo Raffaelli, Luca Doni
+  * *Collectors:* [C. Montangero](./actors.md#carlo-montangero)
+  * *Description: This booklet collects several testimonies on the research in computer music in Pisa, related to the TAU2-TAUmus system, but not only.* 
+  * *Notes:* Additional materials. In Italian. It was printed to accompany the homonymous workshop on Grossi's experience, held in November 2019.
 
 # TAUmus Catalogue Tree
 ~~~
