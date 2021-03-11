@@ -231,15 +231,15 @@
   * *Authors:* [L. Tarabella](./actors.md#leonello-tarabella), [G. Bertini](./actors.md#graziano-bertini), Carlo Raffaelli, Luca Doni
   * *Collectors:* [C. Montangero](./actors.md#carlo-montangero)
   * *Description: This booklet collects several testimonies on the research in computer music in Pisa, related to the TAU2-TAUmus system, but not only.* 
-  * *Notes:* Additional materials. In Italian. It was printed to accompany the homonymous workshop on Grossi's experience, held in November 2019.
+  * *Notes:* Additional materials. In Italian. It was printed to accompany the homonymous workshop on Grossi's experience, held in Pisa in November 2019.
 
 * **[Poster: L’Informatica musicale a Pisa](https://github.com/Unipisa/TAUmus-Depository/tree/master/additional_materials/Locandina-informatica-musicale-pisa.jpg)**
   * *Origin: [C. Montangero](./actors.md#carlo-montangero)* 
   * *Warehouse:*
-  * *Authors:* [L. Tarabella](./actors.md#leonello-tarabella), [G. Bertini](./actors.md#graziano-bertini), Carlo Raffaelli, Luca Doni
+  * *Authors:* F. Gadducci, C. Bodei.
   * *Collectors:* [C. Montangero](./actors.md#carlo-montangero)
-  * *Description: This booklet collects several testimonies on the research in computer music in Pisa, related to the TAU2-TAUmus system, but not only.* 
-  * *Notes:* Additional materials. In Italian. It was printed to accompany the homonymous workshop on Grossi's experience, held in November 2019.
+  * *Description: Poster of the workshop where several testimonies on the research in computer music in Pisa were presented, related to the TAU2-TAUmus system, but not only.* 
+  * *Notes:* Additional materials. In Italian.
 
 # TAUmus Catalogue Tree
 ~~~
