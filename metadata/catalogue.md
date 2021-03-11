@@ -225,7 +225,7 @@
   * *Description: A Case Study of Legacy Source Code: The Computer Music System TAU2-TAUMUS. Presentation of this recovery process at [HaPoC 2019](https://hapoc2019.sciencesconf.org/resource/page/id/3).* 
   * *Notes:* Additional materials. 
 
-* **[L’Informatica musicale a Pisa](https://github.com/Unipisa/TAUmus-Depository/tree/master/additional_materials/L’Informatica musicale a Pisa.pdf)**
+* **[L’Informatica musicale a Pisa](https://github.com/Unipisa/TAUmus-Depository/tree/master/additional_materials/L’Informatica-musicale-a-Pisa.pdf)**
   * *Origin: [C. Montangero](./actors.md#carlo-montangero)* 
   * *Warehouse:*
   * *Authors:* [L. Tarabella](./actors.md#leonello-tarabella), [G. Bertini](./actors.md#graziano-bertini), Carlo Raffaelli, Luca Doni
