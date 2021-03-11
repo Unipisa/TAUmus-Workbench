@@ -238,7 +238,7 @@
   * *Warehouse:*
   * *Authors:* F. Gadducci, C. Bodei.
   * *Collectors:* [C. Montangero](./actors.md#carlo-montangero)
-  * *Description: Poster of the workshop where several testimonies on the research in computer music in Pisa were presented, related to the TAU2-TAUmus system, but not only.* 
+  * *Description: Poster of the workshop where several testimonies on the research in computer music in Pisa were presented in 2019, related to the TAU2-TAUmus system, but not only.* 
   * *Notes:* Additional materials. In Italian.
 
 # TAUmus Catalogue Tree
