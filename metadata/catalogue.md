@@ -217,6 +217,14 @@
   * *Description: This pamphlet describes the structure and the activities of CNUCE in 1977. Page 24 is devoted to Computer Music.* 
   * *Notes:*
 
+* **[A Case Study of Legacy Source Code: The Computer Music System TAU2-TAUMUS](https://github.com/Unipisa/TAUmus-Depository/tree/master/additional_materials/Hapoc2019.pptx)**
+  * *Origin: [L. Bussi](./actors.md#laura-bussi)* 
+  * *Warehouse:*
+  * *Authors:* [L. Tarabella](./actors.md#leonello-tarabella), [C. Montangero](./actors.md#carlo-montangero), [L. Bussi](./actors.md#laura-bussi)
+  * *Collectors:* [L. Bussi](./actors.md#laura-bussi)
+  * *Description: Presentation of this recovery process at [HaPoC 2019](https://hapoc2019.sciencesconf.org/resource/page/id/3).* 
+  * *Notes:* Additional materials.
+
 
 # TAUmus Catalogue Tree
 ~~~
