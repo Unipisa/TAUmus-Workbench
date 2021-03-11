@@ -241,6 +241,14 @@
   * *Description: Poster of the workshop where several testimonies on the research in computer music in Pisa were presented in 2019, related to the TAU2-TAUmus system, but not only.* 
   * *Notes:* Additional materials. In Italian.
 
+* **[Dimostratore TAU2/TAUmus](https://github.com/Unipisa/TAUmus-Depository/tree/master/additional_materials/DimostratoreTAU2-TAUMUS.pdf)**
+  * *Origin: [C. Montangero](./actors.md#carlo-montangero)* 
+  * *Warehouse:*
+  * *Authors:* [M. Magrini](./actors.md#massimo-magrini), [L. Tarabella](./actors.md#leonello-tarabella), [G. Bertini](./actors.md#graziano-bertini)
+  * *Collectors:* [C. Montangero](./actors.md#carlo-montangero)
+  * *Description: This report describes the prototype simulator of the TAU2/TAUmus system, installed at the [Museum of Computing Machinery](https://www.msc.sma.unipi.it/2020/10/nuove-aperture-della-mostra-hello-world/) in Pisa.* 
+  * *Notes:* Additional materials. In Italian. 2020.
+
 # TAUmus Catalogue Tree
 ~~~
 raw_materials
