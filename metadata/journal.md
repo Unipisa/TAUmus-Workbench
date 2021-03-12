@@ -14,5 +14,5 @@
 * **12/03/2021**
   * *Items:* [Added folder "additional materials"](https://github.com/Unipisa/TAUmus-Workbench/tree/master/additional_materials)
   * *Actors:* [Laura Bussi](https://github.com/Unipisa/SWH-TAUMUS-LAB/blob/master/DEPOSITORY_TEMPLATE/ACTORS.md) (Collector).
-  * *Description:* New folder to hold materials created during the recovery process, that amy be useful in the presentation phase.*
+  * *Description:* New folder to hold materials created during the recovery process, that may be useful in the presentation phase.*
   * *Notes:* This experiment  is going to be included in the SHWAPPE template.
