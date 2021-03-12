@@ -10,3 +10,9 @@
   * *Actors:* [Laura Bussi](https://github.com/Unipisa/SWH-TAUMUS-LAB/blob/master/DEPOSITORY_TEMPLATE/ACTORS.md) (Collector).
   * *Description:* Upload of *items*.
   * *Notes:*  On 16/04/2019 [Leonello Tarabella](https://github.com/Unipisa/SWH-TAUMUS-LAB/blob/master/DEPOSITORY_TEMPLATE/ACTORS.md) provides notes, paper and source code of the TAUMUS project to [Laura Bussi](https://github.com/Unipisa/SWH-TAUMUS-LAB/blob/master/DEPOSITORY_TEMPLATE/ACTORS.md) and [Carlo Montangero](https://github.com/Unipisa/SWH-TAUMUS-LAB/blob/master/DEPOSITORY_TEMPLATE/ACTORS.md).
+
+* **12/03/2021**
+  * *Items:* [Digitized source code and material](https://github.com/Unipisa/SWH-TAUMUS-LAB/tree/master/DEPOSITORY_TEMPLATE/MATERIAL)
+  * *Actors:* [Laura Bussi](https://github.com/Unipisa/SWH-TAUMUS-LAB/blob/master/DEPOSITORY_TEMPLATE/ACTORS.md) (Collector).
+  * *Description:* Upload of *items*.
+  * *Notes:*  On 16/04/2019 [Leonello Tarabella](https://github.com/Unipisa/SWH-TAUMUS-LAB/blob/master/DEPOSITORY_TEMPLATE/ACTORS.md) provides notes, paper and source code of the TAUMUS project to [Laura Bussi](https://github.com/Unipisa/SWH-TAUMUS-LAB/blob/master/DEPOSITORY_TEMPLATE/ACTORS.md) and [Carlo Montangero](https://github.com/Unipisa/SWH-TAUMUS-LAB/blob/master/DEPOSITORY_TEMPLATE/ACTORS.md).
