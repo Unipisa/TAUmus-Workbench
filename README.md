@@ -11,7 +11,7 @@ The original finds are stored in the [Depository](https://github.com/Unipisa/TA
 The resulting
 [development history](https://github.com/Unipisa/TAUmus/tree/SourceCode/) can be found in the [TAUmus repository](https://github.com/Unipisa/TAUmus).
 
-This repository was created with the support of the [Software Heritage Acquisition Process Pisa Enactor](https://github.com/Unipisa/SWHAPPE). 
+This repository was created with the support of the [Software Heritage Acquisition Process Pisa Enactor](https://github.com/Unipisa/SWHAPPE). </br>
 Please look at the [SWHAPPE repository](https://github.com/Unipisa/SWHAPPE/README.md) and to the [guidelines](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP%40Pisa.pdf) for more details.
 
 -------------------
