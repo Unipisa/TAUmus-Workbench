@@ -6,7 +6,7 @@
   * *Authors:* [P. Grossi](./actors.md#pietro-grossi), [L. Tarabella](./actors.md#leonello-tarabella), [G. Bertini](./actors.md#graziano-bertini)
   * *Collectors:* [C. Montangero](./actors.md#carlo-montangero), [L. Bussi](./actors.md#laura-bussi)
   * *Description:* An overview of the TAUmus system. Handwritten notes.
-  * *Notes:**
+  * *Notes:*
 
 * **[Pietro Grossi's obituary](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Articolo_Grossi.pdf)**
   * *Origin: Leonello Tarabella*
@@ -54,7 +54,7 @@
   * *Authors:* [P. Grossi](./actors.md#pietro-grossi)
   * *Collectors:* [C. Montangero](./actors.md#carlo-montangero), [L. Bussi](./actors.md#laura-bussi)
   * *Description:* User manual of the Digital Computer Music Program (DCMP). The DCPM is a precursor of the TAU2-TAUmus system: It generated sounds acting on one of the CPU registers of the IBM 360. CNUCE Tech rep. July 1970.
-  * *Notes:**
+  * *Notes:*
 
 * **[Instructional Manual of the DCPM 360/67](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/DCMP_360-67.pdf)**
   * *Origin: Leonello Tarabella*
@@ -182,7 +182,7 @@
   * *Authors:* unknown
   * *Collectors:* [C. Montangero](./actors.md#carlo-montangero), [L. Bussi](./actors.md#laura-bussi)
   * *Description:* This table relates each TAUmus command to the basic routines it uses.
-  * *Notes:**
+  * *Notes:*
 
 * **[Picture: TAU2](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/foto_tau2.jpg)**
   * *Origin: Leonello Tarabella*
@@ -190,7 +190,7 @@
   * *Authors:* unknown
   * *Collectors:* [C. Montangero](./actors.md#carlo-montangero), [L. Bussi](./actors.md#laura-bussi)
   * *Description:* This picture of the TAU2 audio synthetiser shows the control panel (top slot of the red rack.
-  * *Notes:**
+  * *Notes:*
 
 * **[Picture: TAU2 bis](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/foto_tau2_2.jpg)**
   * *Origin: Leonello Tarabella*
@@ -198,7 +198,7 @@
   * *Authors:* unknown
   * *Collectors:* [C. Montangero](./actors.md#carlo-montangero), [L. Bussi](./actors.md#laura-bussi)
   * *Description:* G. Bertini at the console of the TAU2.
-  * *Notes:**
+  * *Notes:*
 
 * **[Picture: TAU2 with text](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/foto_tau2.jpg)**
   * *Origin: Leonello Tarabella*
@@ -214,7 +214,7 @@
   * *Authors:* L. Gori, D. R. Matteucci
   * *Collectors:* [C. Montangero](./actors.md#carlo-montangero), [L. Bussi](./actors.md#laura-bussi)
   * *Description:* This pamphlet describes the structure and the activities of CNUCE in 1977. Page 24 is devoted to Computer Music.
-  * *Notes:**
+  * *Notes:*
 
 * **[HaPoC2019](https://github.com/Unipisa/TAUmus-Depository/tree/master/additional_materials/Hapoc2019.pptx)**
   * *Origin: [L. Bussi](./actors.md#laura-bussi)*
@@ -222,7 +222,7 @@
   * *Authors:* [L. Tarabella](./actors.md#leonello-tarabella), [C. Montangero](./actors.md#carlo-montangero), [L. Bussi](./actors.md#laura-bussi)
   * *Collectors:* [L. Bussi](./actors.md#laura-bussi)
   * *Description:* A Case Study of Legacy Source Code: The Computer Music System TAU2-TAUMUS. Presentation of this recovery process at [HaPoC 2019](https://hapoc2019.sciencesconf.org/resource/page/id/3).
-  * *Notes:** Additional materials.
+  * *Notes:* Additional materials.
 
 * **[L’Informatica musicale a Pisa](https://github.com/Unipisa/TAUmus-Depository/tree/master/additional_materials/L’Informatica-musicale-a-Pisa.pdf)**
   * *Origin: [C. Montangero](./actors.md#carlo-montangero)*
@@ -230,7 +230,7 @@
   * *Authors:* [L. Tarabella](./actors.md#leonello-tarabella), [G. Bertini](./actors.md#graziano-bertini), Carlo Raffaelli, Luca Doni
   * *Collectors:* [C. Montangero](./actors.md#carlo-montangero)
   * *Description:* This booklet collects several testimonies on the research in computer music in Pisa, related to the TAU2-TAUmus system, but not only.
-  * *Notes:** Additional materials. In Italian. It was printed to accompany the homonymous workshop on Grossi's experience, held in Pisa in November 2019. Indexed in [CNR Explora](https://publications.cnr.it/doc/439685).
+  * *Notes:* Additional materials. In Italian. It was printed to accompany the homonymous workshop on Grossi's experience, held in Pisa in November 2019. Indexed in [CNR Explora](https://publications.cnr.it/doc/439685).
 
 * **[Poster: L’Informatica musicale a Pisa](https://github.com/Unipisa/TAUmus-Depository/tree/master/additional_materials/Locandina-informatica-musicale-pisa.jpg)**
   * *Origin: [C. Montangero](./actors.md#carlo-montangero)*
@@ -238,7 +238,7 @@
   * *Authors:* F. Gadducci, C. Bodei.
   * *Collectors:* [C. Montangero](./actors.md#carlo-montangero)
   * *Description:* Poster of the workshop where several testimonies on the research in computer music in Pisa were presented in 2019, related to the TAU2-TAUmus system, but not only.
-  * *Notes:** Additional materials. In Italian.
+  * *Notes:* Additional materials. In Italian.
 
 * **[Dimostratore TAU2/TAUmus](https://github.com/Unipisa/TAUmus-Depository/tree/master/additional_materials/DimostratoreTAU2-TAUMUS.pdf)**
   * *Origin: [C. Montangero](./actors.md#carlo-montangero)*
@@ -246,7 +246,7 @@
   * *Authors:* [M. Magrini](./actors.md#massimo-magrini), [L. Tarabella](./actors.md#leonello-tarabella), [G. Bertini](./actors.md#graziano-bertini)
   * *Collectors:* [C. Montangero](./actors.md#carlo-montangero)
   * *Description:* This report describes the prototype simulator of the TAU2/TAUmus system, installed at the [Museum of Computing Machinery](https://www.msc.sma.unipi.it/2020/10/nuove-aperture-della-mostra-hello-world/) in Pisa.
-  * *Notes:** Additional materials. In Italian. 2020.
+  * *Notes:* Additional materials. In Italian. 2020.
 
 # TAUmus Catalogue Tree
 ~~~
