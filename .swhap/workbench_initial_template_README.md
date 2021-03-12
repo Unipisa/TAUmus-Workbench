@@ -1,6 +1,6 @@
 # SW_NAME Workbench
 
-### This [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench is for the acquisition of the source code of SW_NAME, SW_DESCRIPTION.  
+### This [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench is for the acquisition of the source code of SW_NAME, SW_DESCRIPTION. 
 
 -------------------
 
@@ -14,8 +14,8 @@ Folder [browsable source](./browsable_source) is for a browsable version of the 
 
 Folder [source](./source) is for the curated revision of the source code, as a base for the recontruction of the development history as a git repository, i.e., a folder for each major version of the code.
 
-Folder [metadata](/.metadata) holds various files with meta information used throughout the process. 
+Folder [metadata](/.metadata) holds various files with meta information used throughout the process.
 
-Please refer to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines for greater details. 
+Please refer to the [SWHAPPE](https://github.com/Unipisa/SWHAPPE) guidelines for greater details.
 
 -------------------
