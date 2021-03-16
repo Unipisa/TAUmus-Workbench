@@ -1,6 +1,6 @@
 # TAUmus Workbench
 
-### This [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench is for the acquisition of the source code of TAUmus, the software controlling the real-time computer-music system TAU2-TAUMUS, developed in the 70's of the XX century at the IEE and CNUCE in Pisa under the leadership of Maestro [P. Grossi](https://github.com/Unipisa/TAUmus-Workbench/blob/master/metadata/actors.md#pietro-grossi).
+### This [SWHAPPE](https://github.com/Unipisa/SWHAPPE) workbench is for the acquisition of the source code of TAUmus, the software controlling the real-time computer-music system TAU2-TAUMUS, developed in the 70's of the XX century at IEI and CNUCE in Pisa under the leadership of Maestro [P. Grossi](https://github.com/Unipisa/TAUmus-Workbench/blob/master/metadata/actors.md#pietro-grossi).
 
 -------------------
 
