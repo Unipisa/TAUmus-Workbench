@@ -12,6 +12,6 @@ The resulting
 [development history](https://github.com/Unipisa/TAUmus/tree/SourceCode/) can be found in the [TAUmus repository](https://github.com/Unipisa/TAUmus).
 
 This repository was created with the support of the [Software Heritage Acquisition Process Pisa Enactor](https://github.com/Unipisa/SWHAPPE). </br>
-Please look at the [SWHAPPE repository](https://github.com/Unipisa/SWHAPPE/README.md) and to the [guidelines](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP%40Pisa.pdf) for more details.
+Please look at the [SWHAPPE repository](https://github.com/Unipisa/SWHAPPE/blob/master/README.md) and to the [guidelines](https://github.com/SoftwareHeritage/swhapguide/blob/master/SWHAP%40Pisa.pdf) for more details.
 
 -------------------
