@@ -7,5 +7,5 @@ Note: how difficult will it be to modify these information, once they have been 
      
 2. [TAUmus interactive sessions](https://github.com/Unipisa/TAUmus/tree/SourceCode/Taumus_sessions) : these are the transcripts of four interactive sessions by P. Grossi at the IBM 360/168 to generate music on the TAU2 in real time. 
 
-3. [TAUmus system configuration](.\TUAmusSystemConfiguration.png) : This picture shows how TAUmus worked to produce music in real time: the user issues commands in scripts which are interpreted by the IBM 360 which in turn issues commands to the TAU2 synthetizer.
+3. [TAUmus system configuration](.\TAUmusSystemConfiguration.png) : This picture shows how TAUmus worked to produce music in real time: the user issues commands in scripts which are interpreted by the IBM 360 which in turn issues commands to the TAU2 synthetizer.
 
