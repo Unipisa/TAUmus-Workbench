@@ -12,6 +12,6 @@
 
 1. [TAUmus/TAU2 exibit at HelloWorld! 2020](./ExibitHelloWorld.png) : This picture shows the reconstruction of the TAUmus/TAU2 system at the Helloworld! exibition in Pisa (october 2019 - april 2020). On the right, the digital part of the TAU2 audio syntesizer, on the left a video terminal of the '70s, with its keybord, to mimick a *vintage* session. 
 
-1. [Showcasing the TAUmus/TAU2 system ](./DimostratoreTAU2-TAUMUS.pdf) : This report (in Italian) describes the realization of the exibit of the TAUmus/TAU2 system for the Helloworld! 2020 exibition in Pisa. To be compared with the original setting.
+1. [Showcasing the TAUmus/TAU2 system ](../DimostratoreTAU2-TAUMUS.pdf) : This report (in Italian) describes the realization of the exibit of the TAUmus/TAU2 system for the Helloworld! 2020 exibition in Pisa. To be compared with the original setting.
 
 1. [P. Grossi at the TAUmus system](./PGrossiAlTAUmus.jpg) : This picture shows P. Grossi in front of the original TAUmus/TAU2 station. On the right, a glimps of the analog part of the TAU2 audio syntesizer; in the center, its digital part. On the left the video terminal connected to the IBM mainframe, with its keyboard on the lap of Maestro Grossi.
