@@ -2,7 +2,7 @@
 
 
 
-1. [Computer Music in Pisa - P. Grossi's experience](./L’Informatica-musicale-a-Pisa.pdf) : This report contains everything you may want to know on the context in which the TAUmus software has been developed and has many valuable pictures. Alas, it's in Italian! 
+1. [Computer Music in Pisa - P. Grossi's experience](../L’Informatica-musicale-a-Pisa.pdf) : This report contains everything you may want to know on the context in which the TAUmus software has been developed and has many valuable pictures. Alas, it's in Italian! 
 
 1. [TAUmus FORTRAN II source code](https://github.com/Unipisa/TAUmus/tree/SourceCode) : This folder contains four IBM 360 FORTRAN files each containing a stand alone program written by P. Grossi in 1972 to generate music for the audio synthetizer TAU2. It also contains a [subfolder](https://github.com/Unipisa/TAUmus/tree/SourceCode/Taumus_sessions) with some transcripts of interactive sessions, detailed below.
          
