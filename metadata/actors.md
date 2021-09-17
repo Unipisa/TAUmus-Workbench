@@ -39,3 +39,9 @@
      * *Current:* [Università di Pisa-Dipartimento di Informatica](https://www.di.unipi.it/it/)
        * *Email:* <laura.bussi@phd.unipi.it>
   * *Roles:* Collector, Curator
+
+* # Guido Scatena
+  * *Affiliation*
+     * *Current:* [Università di Pisa-Dipartimento di Informatica](https://www.di.unipi.it/it/)
+       * *Email:* <guido.scatena@unipi.it>
+  * *Roles:* Archive engineer
