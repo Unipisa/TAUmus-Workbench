@@ -200,7 +200,7 @@
   * *Description:* G. Bertini at the console of the TAU2.
   * *Notes:*
 
-* **[Picture: TAU2 with text](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/foto_tau2.jpg)**
+* **[Picture: TAU2 with text](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Foto_tau2_dida.jpg)**
   * *Origin: Leonello Tarabella*
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* unknown
