@@ -189,7 +189,7 @@
   * *Warehouse: Dipartimento di Informatica, Università di Pisa - c/o L. Bussi*
   * *Authors:* unknown
   * *Collectors:* [C. Montangero](./actors.md#carlo-montangero), [L. Bussi](./actors.md#laura-bussi)
-  * *Description:* This picture of the TAU2 audio synthetiser shows the control panel (top slot of the red rack.
+  * *Description:* This picture of the TAU2 audio synthetiser shows the control panel (top slot of the red rack).
   * *Notes:*
 
 * **[Picture: TAU2 bis](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/foto_tau2_2.jpg)**
