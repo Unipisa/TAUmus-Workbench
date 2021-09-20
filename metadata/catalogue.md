@@ -78,7 +78,7 @@
   * *Authors:* unknown
   * *Collectors:* [C. Montangero](./actors.md#carlo-montangero), [L. Bussi](./actors.md#laura-bussi)
   * *Description:* Picture of the people of the TAUmus project, in front of the TAU2 audio terminal and its working station.
-  * *Notes:* From left to right: L. Tarabella, M. Chimenti, P. Grossi and G. Bertini.
+  * *Notes:* From left to right: L. Tarabella, M. Chimenti, P. Grossi [P. Grossi](./actors.md#pietro-grossi) and [G. Bertini](./actors.md#graziano-bertini).
 
 * **[Slides on TAUmus](https://github.com/Unipisa/TAUmus-Depository/tree/master/raw_materials/Lucidi_Taumus.pdf)**
   * *Origin: Leonello Tarabella*
