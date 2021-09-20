@@ -1,5 +1,9 @@
 # TAUMUS Depository Journal
 
+* **20/09/2021**
+  * *Actors:* [Guido Scatenna](./actors.md#guido-scatena).
+  * *Description:* Start of TAUmus wikidata and wikimedia for [TAUmus software story](http://www.sciencestories.io/Q107316563) creation.
+
 * **12/03/2021**
   * *Items:* [Added folder "additional materials"](./../additional_materials)
   * *Actors:* [Laura Bussi](./actors.md#laura-bussi) (Collector).
