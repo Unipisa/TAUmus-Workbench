@@ -22,6 +22,11 @@
      * *Historical:* (2002-2010)[CNR-ISTI](https://www.isti.cnr.it/it/)
   * *Roles:* Author
 
+* # Massimo Chimenti
+  * *Affiliation*
+     * *Historical:* CNR-IEI
+  * *Roles:* Author
+
 * # Massimo Magrini
   * *Affiliation*
      * *Current:* [CNR-ISTI](https://www.isti.cnr.it/it/)
@@ -44,4 +49,4 @@
   * *Affiliation*
      * *Current:* [Università di Pisa-Dipartimento di Informatica](https://www.di.unipi.it/it/)
        * *Email:* <guido.scatena@unipi.it>
-  * *Roles:* Archive engineer
+  * *Roles:* Archive engineer, Curator
